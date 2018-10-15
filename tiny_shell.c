@@ -1,8 +1,4 @@
-/**************
-Affan Jilani
-260742032
-COMP 310 Assignment 1
-**************/
+
 
 #define _GNU_SOURCE
 #define BILLION 1E9
